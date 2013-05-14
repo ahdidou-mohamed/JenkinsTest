@@ -3,7 +3,11 @@ package com.ahdidou.jenkinstest;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-
+/**
+ * 
+ * @author ahdidou
+ *
+ */
 public class MainActivity extends Activity {
 
 	@Override
