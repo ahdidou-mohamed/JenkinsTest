@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 /**
  * 
- * @author ahdidou
+ * @author ahdidou Mohamed
  *
  */
 public class MainActivity extends Activity {
