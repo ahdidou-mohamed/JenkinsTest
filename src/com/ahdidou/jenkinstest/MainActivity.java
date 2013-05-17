@@ -24,9 +24,9 @@ public class MainActivity extends Activity {
 	}
 	
 	/**
-	 * Added Public Methode
+	 * updated Public Methode+Value
 	 */
-	public void publicMethode() {
+	public void publicMethode(int value) {
 		
 	}
 
